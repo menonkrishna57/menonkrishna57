@@ -8,8 +8,8 @@
 </div>
 
 ###
+
 <img align="right" height="150" src="https://gifdb.com/images/high/black-fast-typing-cat-rfo58klql1gydnw3.webp">
-###
 
 
 <h3 align="left"> Languages and apps I use:</h3>
