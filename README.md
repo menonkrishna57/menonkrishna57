@@ -13,6 +13,9 @@
 
 
 <h3 align="left"> Languages and apps I use:</h3>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
@@ -28,7 +31,7 @@
 </div>
 
 ###
-
+<h3 align="left"> My profiles:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/menonkrishna57/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
