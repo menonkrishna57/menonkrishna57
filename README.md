@@ -43,7 +43,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
   <a href="https://tryhackme.com/p/menonkrishna57" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/menonkrishna57.png" alt="TryHackMe">
   </a>
 </div>
 
