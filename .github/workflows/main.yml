@@ -15,6 +15,6 @@ jobs:
       contents: write
     steps:
       - name: Metrics embed
-      - uses: lowlighter/metrics@v3.34
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
